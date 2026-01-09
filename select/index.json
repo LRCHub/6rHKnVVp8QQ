@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "光の軌跡 - Trail of Shine",
+  "base_artist": "Blue Journey",
+  "createdAt": "2026-01-09T03:38:20.101139Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光の軌跡",
+      "artist": "Blue Journey",
+      "has_synced": false,
+      "path": "select/pl_01_光の軌跡_Blue_Journey.txt"
+    }
+  ]
+}
